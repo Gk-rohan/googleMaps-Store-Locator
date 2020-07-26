@@ -1,3 +1,15 @@
+Google Maps App
+Requirements
+Retrieve your own Google Maps API Key (it is free)
+
+https://youtu.be/1voXqu4HN9U
+
+Add your API Key to Google Maps link in index.html:
+
+src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+
+
+
 # Plan Of Action
 
 - Import Google Maps into the Window
